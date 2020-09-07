@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "enseignant.touil.s_enseignant"
+        applicationId "enseignant.touilzakaria.s_enseignant"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1

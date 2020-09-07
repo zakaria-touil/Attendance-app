@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gestion D'Absence By Touil Zakaria</string>
+    <string name="app_name">Attendance app by Touil Zakaria</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_settings">Paramètres</string>
 
